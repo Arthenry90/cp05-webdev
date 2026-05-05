@@ -23,11 +23,11 @@ const HeroSection = () => {
         </p>
 
         <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-          <button className="rounded-full bg-orange-600 px-8 py-4 text-lg font-semibold transition-all hover:bg-orange-700 hover:shadow-lg hover:shadow-orange-900/40">
+          <button className="rounded-full bg-orange-600 px-8 py-4 text-lg font-semibold transition-all hover:bg-orange-700 hover:shadow-lg hover:shadow-orange-900/40 cursor-pointer">
             Baixar o App
           </button>
           
-          <button className="rounded-full border-2 border-white/30 bg-white/10 px-8 py-4 text-lg font-semibold backdrop-blur-md transition-all hover:bg-white hover:text-black">
+          <button className="rounded-full border-2 border-white/30 bg-white/10 px-8 py-4 text-lg font-semibold backdrop-blur-md transition-all hover:bg-white hover:text-black cursor-pointer">
             Ver Restaurantes
           </button>
         </div>
