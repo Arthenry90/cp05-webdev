@@ -2,6 +2,8 @@ import { useState } from 'react'
 import Header from './components/Header/Header';
 import HeroSection from './components/HeroSection/HeroSection';
 import AppHighlights from './components/AppHighlights/AppHighlights';
+import Criticas from './components/Criticas/Criticas';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <HeroSection />
       
       <AppHighlights />
+      <Criticas />
+      <Footer />
     </div>
   )
 }
