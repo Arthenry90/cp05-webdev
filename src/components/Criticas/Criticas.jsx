@@ -10,7 +10,7 @@ const pessoas = [
   },
   {
     id: 2,
-    name: "Ana Luíza",
+    name: "Juan Mercedez",
     role: "Sommelier",
     content: "O cuidado com a embalagem e a curadoria dos restaurantes são impecáveis. Finalmente um serviço que entende o que é alta gastronomia.",
     avatar: "https://i.pravatar.cc/150?u=ana"
