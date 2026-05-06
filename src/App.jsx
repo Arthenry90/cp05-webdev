@@ -5,6 +5,7 @@ import AppHighlights from './components/AppHighlights/AppHighlights';
 import Criticas from './components/Criticas/Criticas';
 import Footer from './components/Footer/Footer';
 import Apresentacao from './components/Apresentacao/Apresentacao';
+import Forms from './components/Forms/Forms'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Apresentacao />
       <AppHighlights />
       <Criticas />
+      <Forms />
       <Footer />
     </div>
   )
