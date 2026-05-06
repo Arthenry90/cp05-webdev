@@ -39,7 +39,7 @@ const Forms = () => {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             placeholder="Seu e-mail"
-            className="px-6 py-3 rounded-full bg-zinc-800 text-white border border-zinc-700 focus:outline-none focus:border-orange-500 flex-grow max-w-md"
+            className="px-6 py-3 rounded-full bg-zinc-800 text-white border border-zinc-700 focus:outline-none focus:border-orange-500 grow max-w-md"
           />
           <button
             type="submit"

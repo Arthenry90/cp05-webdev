@@ -1,6 +1,6 @@
 function Apresentacao() {
   return (
-    <section className="py-20 px-6 bg-black">
+    <section id="sobre" className="py-20 px-6 bg-black">
       <div className="max-w-5xl mx-auto">
 
         {/* Título */}
